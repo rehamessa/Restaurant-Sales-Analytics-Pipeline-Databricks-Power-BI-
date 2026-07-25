@@ -75,7 +75,7 @@ Real issues found while building this pipeline, kept here since they're the kind
 
 --
 
-![](Asstes/Executive Overview.png)
+![](Restaurant-Sales-Analytics-Pipeline-Databricks-Power-BI-/Asstes)
 
 ![Menu Performance](Asstes/Menu_Performance.png)
 
