@@ -72,17 +72,16 @@ Real issues found while building this pipeline, kept here since they're the kind
 
 ## Power BI — Reporting Layer
 
-------
+
 
 ![Executive Overview](Asstes/Executive Overview.png)
 
-------
+
 
 ![Menu Performance](Asstes/Menu Performance.png)
 
-------
 
 
 ![Customer Behavior](Asstes/Customer Behavior.png)
 
-------
+
