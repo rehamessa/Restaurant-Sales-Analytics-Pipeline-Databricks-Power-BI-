@@ -62,7 +62,8 @@ This is where the two raw tables become one usable table.
 **The problem:** `resaurant` has 18 real columns. `restaurant_jason` has 5 columns, one of which (`_data`) is an entire order encoded as a JSON string. You can't `UNION` them directly — the column lists don't match, and even if they did, one side's "data" is unreadable text.
  
 **The fix:** parse `restaurant_jason`'s JSON with `get_json_object()`, cast each field to match `resaurant`'s real types, then `UNION ALL` the two shaped queries together:
- 
+
+ ![Executive Overview](Asstes/Executive Overview.png)
 
 # Data Quality Notes
  
@@ -74,7 +75,7 @@ Real issues found while building this pipeline, kept here since they're the kind
 
 
 
-![Executive Overview](Asstes/Executive Overview.png)
+
 
 
 
