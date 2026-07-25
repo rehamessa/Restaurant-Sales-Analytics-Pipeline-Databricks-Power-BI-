@@ -75,15 +75,10 @@ Real issues found while building this pipeline, kept here since they're the kind
 
 --
 
-![Executive Overview](Asstes/كباب img.jpg)
+![Executive Overview](Asstes/Executive_Overview.png)
 
+![Menu Performance](Asstes/Menu_Performance.png)
 
-
-
-![Menu Performance](Asstes/Menu Performance.png)
-
-
-
-![Customer Behavior](Asstes/Customer Behavior.png)
+![Customer Behavior](Asstes/Customer_Behavior.png)
 
 
