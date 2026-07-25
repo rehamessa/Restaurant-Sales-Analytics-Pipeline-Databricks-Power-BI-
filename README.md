@@ -75,7 +75,7 @@ Real issues found while building this pipeline, kept here since they're the kind
 
 --
 
-![](Asstes/Executive_Overview.png)
+![Executive_Overview](Asstes/Executive_Overview.png)
 
 ![Menu Performance](Asstes/Menu_Performance.png)
 
